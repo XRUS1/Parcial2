@@ -1,4 +1,5 @@
-# Una Puerta a lo Desconocido: Arquitecturas Flotantes en la Era Virtual
+# Registro: Texto de Sala digital/Interactiva
+## Etiqueta: Arte de nuevos medios
 
 La **ensoñación** es el estado en el que la mente se desprende de las exigencias del entorno inmediato para sumergirse en un flujo libre de imágenes, recuerdos y fantasías voluntarias. Es un territorio liminal: un espacio suspendido entre la vigilia y el sueño profundo, donde las leyes de la física y el tiempo lineal se diluyen. 
 
