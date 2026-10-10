@@ -1,1 +1,13 @@
-# Parcial2
+# Una Puerta a lo Desconocido: Arquitecturas Flotantes en la Era Virtual
+
+La **ensoñación** es el estado en el que la mente se desprende de las exigencias del entorno inmediato para sumergirse en un flujo libre de imágenes, recuerdos y fantasías voluntarias. Es un territorio liminal: un espacio suspendido entre la vigilia y el sueño profundo, donde las leyes de la física y el tiempo lineal se diluyen. 
+
+Para materializar este tránsito, este espacio recurre a la ingeniería de papel conceptualizada por la célebre artista y educadora Carol Barton en sus tratados de diseño tridimensional:
+
+> *"Las plataformas desplegables parecen flotar mágicamente sobre la superficie de la página, suspendidas por tres o más pestañas cortas ocultas debajo. Una plataforma puede tener una forma simétrica o asimétrica, con un pliegue central que se alinea con el pliegue de la tarjeta o de la página donde va pegada. Prácticamente cualquier imagen puede convertirse en una plataforma flotante, y el mecanismo es especialmente eficaz con imágenes diseñadas para ser vistas desde arriba."*
+
+Este mecanismo analógico estudiado por Barton se convierte aquí en **una puerta a lo desconocido**, el umbral físico hacia una ensoñación expandida por el código digital. A través del diálogo entre el calado tradicional y la realidad aumentada, las piezas aquí dispuestas operan como estructuras que desafían la gravedad de la página. Lo que a simple vista parece suspendido por soportes invisibles, revela su verdadera naturaleza bajo la mirada cenital de la tecnología. A través de sistemas de **seguimiento de imagen**, la cámara y el visor se transforman en los lentes encargados de decodificar lo intangible.
+
+Al mirar desde arriba, el pliegue central del papel deja de ser una bisagra física para convertirse en una frontera interactiva. Es ahí donde el ojo tecnológico hace emerger una geometría matemática: una **retícula que escanea la superficie** táctil. Al consolidarse esta coordenada virtual, la materia cobra vida en la figura de un gecko; un ser mimético que habita los pliegues y que, al reconocer la estructura lumínica, rompe las leyes del plano físico para saltar y volar libremente por el espacio. Mundos autónomos, dinámicos y volátiles brotan de la página y flotan ante nosotros, disolviendo los límites entre lo que se puede tocar y lo que solo puede ser evocado.
+
+Los invitamos a cruzar este umbral, habitar este estado de suspensión y recorrer las simetrías de estos paisajes flotantes; una muestra del talento de creadores que unen el desarrollo técnico, la criatura virtual y el papel para expandir los límites del lenguaje digital.
